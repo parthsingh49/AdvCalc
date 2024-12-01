@@ -48,28 +48,7 @@ This is an advanced Python-based calculator that offers a wide range of mathemat
   - Math (Standard Library)
   - Cmath (Standard Library)
 
-## 🚀 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-advanced-calculator.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd ai-advanced-calculator
-   ```
-
-3. Install required dependencies:
-   ```bash
-   pip install numpy
-   ```
-
-## 💻 Usage
-
-Run the calculator:
-```bash
-python ai_advanced_calculator.py
 ```
 
 ### Interaction Flow
