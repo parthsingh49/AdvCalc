@@ -113,6 +113,7 @@ def main():
         try:
             category = input("\nSelect category (or type 'exit' to quit): ").lower()
             if category == 'exit':
+                print("Thanks for using the Advanced Calculator!")
                 break
             
             if category == '1':
